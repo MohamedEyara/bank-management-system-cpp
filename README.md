@@ -21,8 +21,10 @@ This project simulates a real-world banking system with multiple user roles, fil
 
 The system automatically initializes a default admin account on first launch to allow access to the system:
 
-- 👤 Username: `admin`
-- 🔐 Password: `admin123`
+- 🆔 ID: `1`
+- 🔐 Password: `Admin1234`
+
+Users log in with their **ID** and password.
 
 ⚠️ For security reasons, it is strongly recommended to change the default password after first login.
 
